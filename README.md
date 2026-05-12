@@ -1,4 +1,4 @@
-# Laravel Wallet API
+# Finflow Wallet System
 
 A RESTful backend system for wallet management and secure money transfers between users.
 
